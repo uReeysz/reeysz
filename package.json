@@ -1,0 +1,19 @@
+{
+  "name": "boot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^3.0.0",
+    "colors": "^1.1.2",
+    "discord.js": "^11.3.0",
+    "ip-set": "^1.0.1",
+    "terminal": "^0.1.4",
+    "webhook-discord": "^2.0.6"
+  }
+}
