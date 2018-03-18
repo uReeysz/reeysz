@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const bot = new Discord.Client();
 
-bot.login('NDE3NzE4ODk5Mzc1NzM0ODI0.DXXX9Q.QSY19ZU7j6Lwcg1Tx83zmcKmJK4');
+bot.login('');
 
 const embed = new Discord.RichEmbed()
 
